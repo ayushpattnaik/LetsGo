@@ -1,5 +1,6 @@
 # LetsGo
-A chrome extension to easily access all your favourite websites
+- An  extension to easily access all your favourite websites
+- Published in microsoft store
 <br>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
